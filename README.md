@@ -1,6 +1,6 @@
 # US-airbornestrikes-Somalia
 
-This repository accompanies my Comment, "Back Again: How Airborne Strikes Against al-Shabaab Further U.S. Imperial Interests," published in the X issue of the Journal of International Law and Foreign Affairs. (EDIT). It contains the data and analysis discussed in the Comment, and it expands upon those discussions with additional visualizations and analyses. 
+This repository accompanies my Comment, "Back Again: How Airborne Strikes Against al-Shabaab Further U.S. Imperial Interests," published in the X issue of the Journal of International Law and Foreign Affairs. (EDIT). It contains the data and analysis discussed in the Comment, and it expands upon those discussions with additional visualizations and analyses. The Comment and accompanying Appendix are included, as well as the original code. (idk what people say) 
 
 The data has been pulled from Airwars, a nonprofit focused on bringing transparency and accountability to military conflicts and civilian harm (https://airwars.org). For strikes in Somalia, it pulls data from U.S. and Somali news media, U.S. military statements, the Bureau of Investigative Journalism, Amnesty, U.S. government responses to Airwars’ Freedom of Information Act requests, and Somali Twitter. By aggregating a variety of sources, it is considered the comprehensive record of all possible U.S. strikes in Somalia.
 
