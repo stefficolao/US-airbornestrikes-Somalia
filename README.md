@@ -82,24 +82,25 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 ## File Descriptions
 
 | File                                 | Description                                                                                                       
-|--------------------------------------|-----------------------------------------------------------------------------------------------------|
-| `2024 UPDATE Somalia.pdf`            | Insert Description                                                                                  | 
-| `COLAO APPENDIX REVISED.pdf`         | Insert Description                                                                                  |
-| `COLAO August 2022 Revisions.pdf`    | Insert Description                                                                                  |
-| `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                         |
-| `airwars_scraper.R`                  | Scraper used to pull data in May 2022 from Airwars                                                  |
-| `somalia_data.csv`                   | Scraped and labeled data from Airwars used in the analysis                                          |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------|
+| `2024 UPDATE Somalia.pdf`            | Insert Description                                                                                       | 
+| `COLAO APPENDIX REVISED.pdf`         | Insert Description                                                                                       |
+| `COLAO August 2022 Revisions.pdf`    | Insert Description                                                                                       |
+| `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                              |
+| `airwars_scraper.R`                  | Scraper used to pull data in May 2022 from Airwars                                                       |
+| `barplot_code.R`                     | R code used to summarize the data by AFRICOM airborne strikes and all other airborne strikes in the data |
+| `somalia_data.csv`                   | Scraped and labeled data from Airwars used in the analysis                                               |
 
 
 ## Data Dictionary
 
 | Variable                             | Description                                                                                                       
-|--------------------------------------|-----------------------------------------------------------------------------------------------------|
-| `ID`                                 | Internal ID for each airborne strike                                                                | 
-| `Location`                           | Location of airborne strike                                                                         |
-| `Date`                               | Date(s) of airborne strike(s)                                                                       |
-| `Claimed by AFRICOM?`                | Whether an airborne strike was claimed by AFRICOM                                                   |
-| `Description of target`              | Description of target hit by airborne strike from Airwars                                           |
-| `DPH Claim?`                         | Whether there is a claim that a target was a direct participant in hostilities                      |
-| `URL`                                | Link to Airwars page on each airborne strike (pulled May 2022)                                      |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------|
+| `ID`                                 | Internal ID for each airborne strike                                                                     | 
+| `Location`                           | Location of airborne strike                                                                              |
+| `Date`                               | Date(s) of airborne strike(s)                                                                            |
+| `Claimed by AFRICOM?`                | Whether an airborne strike was claimed by AFRICOM                                                        |
+| `Description of target`              | Description of target hit by airborne strike from Airwars                                                |
+| `DPH Claim?`                         | Whether there is a claim that a target was a direct participant in hostilities                           |
+| `URL`                                | Link to Airwars page on each airborne strike (pulled May 2022)                                           |
 
