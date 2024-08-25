@@ -83,9 +83,9 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 
 | File                                 | Description                                                                                                       
 |--------------------------------------|----------------------------------------------------------------------------------------------------------|
-| `2024 UPDATE Somalia.pdf`            | Brief comments on the current U.S. in Somalia as of publishing                                           | 
-| `COLAO APPENDIX REVISED.pdf`         | Insert Description                                                                                       |
-| `COLAO August 2022 Revisions.pdf`    | Insert Description                                                                                       |
+| `2024 UPDATE Somalia.pdf`            | Brief comments on the current U.S. intervention in Somalia as of publishing                              | 
+| `COLAO APPENDIX REVISED.pdf`         | Data appendix, first published by JILFA here:                                                            |
+| `COLAO August 2022 Revisions.pdf`    | Comment, first published by JILFA here:                                                                  |
 | `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                              |
 | `airwars_scraper.R`                  | Scraper used to pull data in May 2022 from Airwars                                                       |
 | `barplot_code.R`                     | R code used to summarize the data by AFRICOM airborne strikes and all other airborne strikes in the data |
