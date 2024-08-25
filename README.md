@@ -1,3 +1,5 @@
+## Summary
+
 This repository accompanies my Comment, "Back Again: How Airborne Strikes Against al-Shabaab Further U.S. Imperial Interests," published in the 28.1 issue of the Journal of International Law and Foreign Affairs. It contains the data and analysis discussed in the Comment, and it expands upon those discussions with additional visualizations and analyses. The Comment and accompanying Appendix are included, as well as the original code. 
 
 The data has been pulled from Airwars, a nonprofit focused on bringing transparency and accountability to military conflicts and civilian harm (https://airwars.org). For strikes in Somalia, Airwars compiles data from U.S. and Somali news media, U.S. military statements, the Bureau of Investigative Journalism, Amnesty, U.S. government responses to Airwars’ Freedom of Information Act requests, and Somali Twitter. By aggregating a variety of sources, it is considered the comprehensive record of all possible U.S. strikes in Somalia.
@@ -76,3 +78,28 @@ From Airwars, I pulled all claims of U.S. airborne strikes against al-Shabaab or
 My conclusions about whether the target was plausibly directly participating in hostilities is based on the ICRC’s guidance for interpreting direct participation in hostilities, which requires that the act must meet a certain threshold of harm to a party’s military operations or to protected persons, that the act must be designed to cause harm in support of a party to the conflict (belligerent nexus), and that there be a direct causal link between the harm and the act (https://casebook.icrc.org/glossary/direct-participation-hostilities). Activities like possessing weapons or traveling lacked direct causation of harm, as did attacking U.S. or partner forces the day prior, because there was no certainty that the members targeted were responsible for the attack. If the U.S. suspected an imminent attack or seemed to respond immediately after an attack, I considered that there was “maybe” a direct participation in hostilities claim, based on the uncertainty of the timing or credibility of a suspected threat. Only if the U.S. launched an airstrike in active conflict against al- Shabaab did I consider there to be a true claim that the target was directly participating in hostilities. This is not an evaluation of the accuracy of the direct participation in hostilities claim but whether there existed any grounds for the U.S. to claim it made a targeting decision based on direct participation in hostilities, rather than al-Shabaab membership alone.
 
 As this analysis shows, in practice, airborne strikes against al-Shabaab individually and cumulatively violate international law. In my Comment, I also examine how the program violates international law in policy. Ultimately, I conclude that IHL does not serve as a reliable constraint on U.S. action, and moreover, these strikes are better understood as a protracted project of military imperialism rather than as unlawful counterterrorism tactics. 
+
+## File Descriptions
+
+| File                                 | Description                                                                                                       
+|--------------------------------------|-----------------------------------------------------------------------------------------------------|
+| `2024 UPDATE Somalia.pdf`            | Insert Description                                                                                  | 
+| `COLAO APPENDIX REVISED.pdf`         | Insert Description                                                                                  |
+| `COLAO August 2022 Revisions.pdf`    | Insert Description                                                                                  |
+| `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                         |
+| `airwars_scraper.R`                  | Scraper used to pull data in May 2022 from Airwars                                                  |
+| `somalia_data.csv`                   | Scraped and labeled data from Airwars used in the analysis                                          |
+
+
+## Data Dictionary
+
+| Variable                             | Description                                                                                                       
+|--------------------------------------|-----------------------------------------------------------------------------------------------------|
+| `ID`                                 | Internal ID for each airborne strike                                                                | 
+| `Location`                           | Location of airborne strike                                                                         |
+| `Date`                               | Date(s) of airborne strike(s)                                                                       |
+| `Claimed by AFRICOM?`                | Whether an airborne strike was claimed by AFRICOM                                                   |
+| `Description of target`              | Description of target hit by airborne strike from Airwars                                           |
+| `DPH Claim?`                         | Whether there is a claim that a target was a direct participant in hostilities                      |
+| `URL`                                | Link to Airwars page on each airborne strike (pulled May 2022)                                      |
+
