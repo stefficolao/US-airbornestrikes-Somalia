@@ -102,5 +102,5 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 | `Claimed by AFRICOM?`                | Whether an airborne strike was claimed by AFRICOM                                                        |
 | `Description of target`              | Description of target hit by airborne strike from Airwars                                                |
 | `DPH Claim?`                         | Whether there is a claim that a target was a direct participant in hostilities                           |
-| `URL`                                | Link to Airwars page on each airborne strike (pulled May 2022)                                           |
+| `URL`                                | Link to Airwars page on each airborne strike (pulled August 2022)                                           |
 
