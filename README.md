@@ -18,8 +18,8 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 | `COLAO APPENDIX REVISED.pdf`         | Data appendix, first published by JILFA here:                                                            |
 | `COLAO August 2022 Revisions.pdf`    | Comment, first published by JILFA here:                                                                  |
 | `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                              |
-| `airwars_scraper.R`                  | Scraper used to pull data in August 2022 from Airwars                                                       |
-| `barplot_code.R`                     | R code used to summarize the data by AFRICOM airborne strikes and all other airborne strikes in the data |
+| `Code`                               | Folder containing the R code used to scrape and visualize labeled data from Airwars                      |
+| `Visualizations`                     | Folder containing the visualizations of labeled data from Airwats (see Visualization_README.md)          |
 | `somalia_data.csv`                   | Scraped and labeled data from Airwars used in the analysis                                               |
 
 
