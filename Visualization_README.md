@@ -2,7 +2,7 @@ Below I have included my characterizations of the airborne strikes across author
 
 ## Plots
 
-### Figure 1 - Airborne Strikes by DPH Claim
+### Figure 1 - Airborne Strikes by DPH Claim and Authority
 
 ![DPHClaim_StrikeCount_barplot](https://github.com/user-attachments/assets/29aaae8f-ee21-4444-8825-352e3daa4e08)
 
