@@ -1,3 +1,5 @@
+Below I have included my characterizations of the airborne strikes across authority, administration, and year. This is not to suggest that any particular moments were more or less lawful. Rather, I hope such visuals might help illustrate how the information that has been made available about these actions is incredibly variable. How much information the government provides to justify its actions (i.e., to claim the targeted individuals were at least participating in hostilities at the time of the strike), is clearly dependent on administration. For additional discussion of how to interpret the characterizations of these claims, please see Part II.B of the Comment. 
+
 ## Plots
 
 ### Figure 1 - Airborne Strikes by DPH Claim
