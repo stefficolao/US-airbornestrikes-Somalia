@@ -1,6 +1,6 @@
 ## Summary
 
-This repository accompanies my Comment, "Back Again: How Airborne Strikes Against al-Shabaab Further U.S. Imperial Interests," published in the 28.1 issue of the Journal of International Law and Foreign Affairs. It contains the data and analysis discussed in the Comment, and it expands upon those discussions with additional visualizations and analyses. The Comment and accompanying Appendix are included, as well as the original code. For brief visual analysis, please see the Visualization ReadMe. 
+This repository accompanies my Comment, "Back Again: How Airborne Strikes Against al-Shabaab Further U.S. Imperial Interests," published in the 28.1 issue of the Journal of International Law and Foreign Affairs (https://escholarship.org/uc/item/71f479bk#main). It contains the data and analysis discussed in the Comment, and it expands upon those discussions with additional visualizations and analyses. The Comment and accompanying Appendix are included, as well as the original code. For brief visual analysis, please see the Visualization ReadMe. 
 
 The data has been pulled from Airwars, a nonprofit focused on bringing transparency and accountability to military conflicts and civilian harm (https://airwars.org). For strikes in Somalia, Airwars compiles data from U.S. and Somali news media, U.S. military statements, the Bureau of Investigative Journalism, Amnesty, U.S. government responses to Airwars’ Freedom of Information Act requests, and Somali Twitter. By aggregating a variety of sources, it is considered the comprehensive record of all possible U.S. strikes in Somalia.
 
@@ -14,9 +14,8 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 
 | File                                 | Description                                                                                                       
 |--------------------------------------|----------------------------------------------------------------------------------------------------------|
-| `2024 Update U.S. in Somalia.pdf`            | Brief comments on the current U.S. intervention in Somalia as of publishing                              | 
-                                                
-| `Back Again.pdf`    | Comment, first published by JILFA  |
+| `2024 Update U.S. in Somalia.pdf`    | Brief comments on the current U.S. intervention in Somalia as of publishing                              | 
+| `Back Again.pdf`                     | Comment, first published by JILFA                                                                        |
 | `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                              |
 | `Code`                               | Folder containing the R code used to scrape and visualize labeled data from Airwars                      |
 | `Visualizations`                     | Folder containing the visualizations of labeled data from Airwats (see Visualization_README.md)          |
