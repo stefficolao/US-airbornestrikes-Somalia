@@ -34,4 +34,4 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 | `DPH Claim?`                         | Whether there is a claim that a target was a direct participant in hostilities                           |
 | `URL`                                | Link to Airwars page on each airborne strike (pulled August 2022)                                           |
 
-Thank you to Michael Everett for advice and assistance with the code and visualizations. 
+My greatest appreciation to Ahilan Arulanantham for his brilliant guidance throughout the writing and research of this Comment. Thank you also to Kate Mackintosh for her excellent suggestions and supervision for an earlier version of this Comment. Thank you to Michael Everett for advice and assistance with the code and visualizations, and to the JILFA team for its thoughtful edits and help with publication. 
