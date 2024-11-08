@@ -16,7 +16,7 @@ As this analysis shows, in practice, airborne strikes against al-Shabaab individ
 |--------------------------------------|----------------------------------------------------------------------------------------------------------|
 | `2024 Update U.S. in Somalia.pdf`            | Brief comments on the current U.S. intervention in Somalia as of publishing                              | 
                                                      |
-| `Back Again.pdf`    | Comment, first published by JILFA here:  https://escholarship.org/uc/item/71f479bk#main                                                                |
+| `Back Again.pdf`    | Comment, first published by JILFA  |
 | `DPHClaim_Strike_Count_barplot.svg`  | Bar plot showing strikes claimed by AFRICOM and all strikes                                              |
 | `Code`                               | Folder containing the R code used to scrape and visualize labeled data from Airwars                      |
 | `Visualizations`                     | Folder containing the visualizations of labeled data from Airwats (see Visualization_README.md)          |
